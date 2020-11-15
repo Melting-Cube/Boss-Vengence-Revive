@@ -7,8 +7,8 @@ using UnityEngine.Networking;
 namespace BossVengenceRev
 {
     [BepInDependency("com.bepis.r2api")]
-    [BepInPlugin("com.Melting-Cube.BossVengenceRev", "Boss Vengence Revive", "1.0.0")]
-    public class BossVengenceRev : BaseUnityPlugin
+    [BepInPlugin("com.Melting-Cube.BossVengenceRevive", "Boss and Vengence Revive", "1.0.0")]
+    public class BossVengenceRevive : BaseUnityPlugin
     {
         public void Awake()
         {

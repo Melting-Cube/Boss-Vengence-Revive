@@ -1,4 +1,4 @@
-# Boss-Vengence-Respawn
+# BossVengenceRespawn
 
 ## Description 
 - A mod for Risk of Rain 2 that will revive dead players once other members of their team kill the boss or complete the Vengence event.

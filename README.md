@@ -8,6 +8,7 @@
 - Extract the zip from thunderstore.io into “Risk of Rain 2\BepInEx\plugins”
 
 ## Changelog
+- 1.0.1 Fixed problems with the manifest.json
 - 1.0.0 Initial Release
 
 ## Contact

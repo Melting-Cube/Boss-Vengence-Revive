@@ -7,12 +7,12 @@ using UnityEngine.Networking;
 namespace BossVengenceRev
 {
     [BepInDependency("com.bepis.r2api")]
-    [BepInPlugin("com.Melting-Cube.BossVengenceRevive", "Boss and Vengence Revive", "1.0.1")]
+    [BepInPlugin("com.Melting-Cube.BossVengenceRevive", "Boss and Vengence Revive", "1.0.2")]
     public class BossVengenceRevive : BaseUnityPlugin
     {
         public void Awake()
         {
-            Chat.AddMessage("Loaded testmod");
+            Chat.AddMessage("Loaded BossVengenceRevive");
             On.RoR2.BossGroup.OnDefeatedServer += (orig, self) =>
             {
                 orig(self);

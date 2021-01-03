@@ -1,15 +1,14 @@
 # BossVengenceRevive
 
 ## Description 
-- A mod for Risk of Rain 2 that will revive dead players once other members of their team kill the boss or complete the Vengeance event.
-And yes, the name is spelt wrong.
+- A mod with configurability  for Risk of Rain 2 that will revive dead players once other members of their team kill the boss or complete the Vengeance event.
 
 ## Installation
 - Use a mod manager to ease the process
 - Otherwise extract the zip from thunderstore.io into “Risk of Rain 2\BepInEx\plugins”
 
 ## Config
- - The config can be found in the BepInEx/config folder inside your RoR2 Directory 
+ - The config can be found in the BepInEx/config folder inside your RoR2 Directory
 
 ## Changelog
 - 1.1.0 Added a config file with options to choose what boss groups you revive after
@@ -20,5 +19,5 @@ And yes, the name is spelt wrong.
 ## Contact
 - Discord: Melting Cube#1306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjYyMzYwMSwtNzQyMjkwNTEwXX0=
+eyJoaXN0b3J5IjpbMTk1NzcxNTcyMywtNzQyMjkwNTEwXX0=
 -->

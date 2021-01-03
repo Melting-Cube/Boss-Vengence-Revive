@@ -62,5 +62,8 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>..\..\.steam\steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\UnityEngine.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="HGCSharpUtils">
+      <HintPath>..\..\.steam\steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\HGCSharpUtils.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

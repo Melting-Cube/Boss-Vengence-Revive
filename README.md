@@ -7,7 +7,8 @@
 - Use a mod manager to ease the process
 - Otherwise extract the zip from thunderstore.io into “Risk of Rain 2\BepInEx\plugins”
 
-## Heading
+## Config
+ - The config can be found in the BepInEx/config folder inside your RoR2 Directory 
 
 ## Changelog
 - 1.1.0 Added a config file with options to choose what boss groups you revive after
@@ -18,5 +19,5 @@
 ## Contact
 - Discord: Melting Cube#1306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjI5MDUxMF19
+eyJoaXN0b3J5IjpbMTI4NTA4MDg0OCwtNzQyMjkwNTEwXX0=
 -->

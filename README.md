@@ -5,9 +5,10 @@
 
 ## Installation
 - Use a mod manager to ease the process
-- Extract the zip from thunderstore.io into “Risk of Rain 2\BepInEx\plugins”
+- Otherwise extract the zip from thunderstore.io into “Risk of Rain 2\BepInEx\plugins”
 
 ## Changelog
+- 1.1.0 Added a config file with options to choose what boss 
 - 1.0.2 Fixed minor oversights in the discription and chat log (namely github link)
 - 1.0.1 Fixed problems with the manifest.json
 - 1.0.0 Initial Release
@@ -15,5 +16,5 @@
 ## Contact
 - Discord: Melting Cube#1306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTI3MDUxNF19
+eyJoaXN0b3J5IjpbMTMyMzI0MTc0M119
 -->

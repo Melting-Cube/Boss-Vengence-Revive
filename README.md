@@ -8,16 +8,17 @@
 - Otherwise extract the zip from thunderstore.io into “Risk of Rain 2\BepInEx\plugins”
 
 ## Config
- - The config can be found in the BepInEx/config folder inside your RoR2 Directory
+ - The config can be found in the BepInEx\config folder inside your RoR2 Directory.
+ - You can toggle the mod on/off and choose what boss groups you will respawn after.
 
 ## Changelog
 - 1.1.0 Added a config file with options to choose what boss groups you revive after
-- 1.0.2 Fixed minor oversights in the discription and chat log (namely github link)
+- 1.0.2 Fixed minor oversights in the description and chat log (namely github link)
 - 1.0.1 Fixed problems with the manifest.json
 - 1.0.0 Initial Release
 
 ## Contact
 - Discord: Melting Cube#1306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk3MjkzOTEsLTc0MjI5MDUxMF19
+eyJoaXN0b3J5IjpbMzcwMTczOTkwLC03NDIyOTA1MTBdfQ==
 -->

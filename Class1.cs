@@ -58,7 +58,7 @@ namespace BossVengenceRev
                 "Doppelganger",
                 true,
                 "Revive dead players after you defeat a Doppelganger." +
-                "\nDoppelgangers are enabled by the Vengence Artifact"
+                "\nDoppelgangers are enabled by the Vengeance Artifact"
                 );
             MiscBoss = Config.Bind<bool>(
                 "Boss Types",

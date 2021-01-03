@@ -2,6 +2,7 @@
 
 ## Description 
 - A mod for Risk of Rain 2 that will revive dead players once other members of their team kill the boss or complete the Vengeance event.
+And yes, the name is spelt wrong.
 
 ## Installation
 - Use a mod manager to ease the process
@@ -19,5 +20,5 @@
 ## Contact
 - Discord: Melting Cube#1306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTA4MDg0OCwtNzQyMjkwNTEwXX0=
+eyJoaXN0b3J5IjpbMTk4MjYyMzYwMSwtNzQyMjkwNTEwXX0=
 -->

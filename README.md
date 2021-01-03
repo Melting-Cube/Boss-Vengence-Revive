@@ -1,7 +1,7 @@
 # BossVengenceRevive
 
 ## Description 
-- A mod with configurability  for Risk of Rain 2 that will revive dead players once other members of their team kill the boss or complete the Vengeance event.
+- A mod with configurability for Risk of Rain 2 that will revive dead players once other members of their team kill the boss or complete the Vengeance event.
 
 ## Installation
 - Use a mod manager to ease the process
@@ -19,5 +19,5 @@
 ## Contact
 - Discord: Melting Cube#1306
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzcxNTcyMywtNzQyMjkwNTEwXX0=
+eyJoaXN0b3J5IjpbLTE0Mjk3MjkzOTEsLTc0MjI5MDUxMF19
 -->
